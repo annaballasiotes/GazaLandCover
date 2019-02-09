@@ -17,8 +17,18 @@ Classification Outputs | Land cover classification maps for Gaza from 2000 - 201
 <p align = "center">
 
 ![Gaza Map](img/Gaza_Geospatial_Data.png)
+</p>
+<div style="text-align:center">
+
 <i> Map of Gaza </i>
 
-</p>
+</div>
 
 <h3> Story Data </h3>
+
+Title | URL 
+----- | ------
+"Timeline: the humanitarian impact of the Gaza blockade" | https://www.oxfam.org/en/occupied-palestinian-territory-and-israel/timeline-humanitarian-impact-gaza-blockade
+B'Tselem: The Israeli Information Center for Human Rights in the Occupied Territories | https://www.btselem.org/
+"Disengagement, the Palestinian Economy, and the Settlements" | http://siteresources.worldbank.org/INTWESTBANKGAZA/Resources/psannexdiseng.pdf
+"Twelve Powerful Images From the Gaza Disengagement" | https://www.haaretz.com/twelve-powerful-images-from-the-gaza-disengagement-1.5378980
