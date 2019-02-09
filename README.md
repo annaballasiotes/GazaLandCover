@@ -1,9 +1,24 @@
 # Gaza Land Cover: Occupation as a Land Use
 
-This project will expand upon the GEOG 699 course from last spring, “Occupation as a Land Use,” and the work done to study landscape changes in Gaza from 2000 to 2015. I will focus on the three main military operations imparted by Israel, as well as effects of the blockade -- a border buffer, abandoned Israeli settlements, and other forms of occupation. Because much of this work is done in Google Earth Engine, I will need to identify methods of importing this properly for web use. How Gaza is emphasized cartographically is important to this project and will be something that I will keep in mind while I design this story map.
+This project will expand upon the GEOG 699 course from last spring, “Occupation as a Land Use,” and the work done to study landscape changes in Gaza from 2000 to 2018. I will focus on the three main military operations imparted by Israel as well as effects of the blockade. To do so, I will look at a border buffer, abandoned Israeli settlements, and other landscape evidence of occupation. Because much of this work is done in Google Earth Engine, I will need to identify methods of importing this properly for web use. How Gaza is emphasized cartographically is important to this project and will be something that I will keep in mind while I design this story map.
 
-In the readme file, please make a table to list all the data sources for your final project. If your final project is in a story map format, please also list the photos, videos, archives, newspapers and any other data you would like to visualize in the map. Regarding each row of data source, it should include the name, description, url link, memo, and etc.; and
+<h3> Geospatial Data </h3>
 
-Name | Description | URL | Notes
------- | ---- | ------- | ------
-Land Cover 2000 - 2015 | These were classified using training data and a random tree classifier.
+Name | Description
+------ | ------
+Green Line | The internationally agreed upon border between Israel and Gaza.
+Israeli Settlements within Gaza | The Israeli settlements prior to the August 2005 disengagement.
+Border Fence | The actual location of the barrier fence or wall between Israel and Gaza. This does not follow the Green Line precisely.
+Border Checkpoints | Locations of border checkpoints along the border between Israel and Gaza. Certain goods and people are restricted from passing through these checkpoints. Only two currently open.
+Palestinian Localities | The built up area of Palestinian cities within Gaza.
+Maritime Lines | The varying fishing and travel restrictions enforced by Israel for Gazans.
+Classification Outputs | Land cover classification maps for Gaza from 2000 - 2018. Developed using a random forest classifier in Google Earth Engine.
+
+<p align = "center">
+
+![Gaza Map](img/Gaza_Geospatial_Data.png)
+<i> Map of Gaza </i>
+
+</p>
+
+<h3> Story Data </h3>
